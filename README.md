@@ -38,8 +38,10 @@ The algorithm compares sequences of characters and returns a similarity ratio be
 - `The plagiarized content is 92.3%` - Very high similarity, potential plagiarism
 
 ## Project Structure
-.
+```
+.  
 ├── plagiarism-detector.py  # Main program
 ├── data-set.txt            # Reference source text
 ├── plagiarism-check.txt    # Text to be verified
 └── README.md
+```
